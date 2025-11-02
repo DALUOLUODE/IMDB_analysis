@@ -14,3 +14,7 @@
 | capsule_lstm.csv | 0.88440 | 0.88440 |
 | bert_trainer.csv | 0.93828 | 0.93828 |
 | bert_native.csv | 0.86868 | 0.86868 |
+| deberta_ptuning.csv | 0.50628 | 0.50628 |
+| deberta_prompt.csv| 0.51064 | 0.51064 |
+| deberta_prefix_roberta_large.csv | 0.78204 | 0.78204 |
+|deberta_lora.csv|0.96556|0.96556
