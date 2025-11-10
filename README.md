@@ -18,3 +18,6 @@
 | deberta_prompt.csv| 0.51064 | 0.51064 |
 | deberta_prefix_roberta_large.csv | 0.78204 | 0.78204 |
 |deberta_lora.csv|0.96556|0.96556
+|deberta_unsloth.csv|0.96140|0.96140
+|bert_scl_scratch.csv|0.93048|0.93048
+|bert_drop_scratch.csv|0.93480|0.93480
